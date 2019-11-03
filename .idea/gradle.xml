@@ -8,14 +8,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/BaseGameUtils" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/squarecamera" />
-            <option value="$PROJECT_DIR$/volley" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
-        <option name="testRunner" value="PLATFORM" />
       </GradleProjectSettings>
     </option>
   </component>
